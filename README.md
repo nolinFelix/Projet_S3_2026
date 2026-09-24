@@ -7,9 +7,10 @@
 
 ## Git bash
 
-C'est un terminal avec syntaxe linux, il y a quelques différences:
-- shift + c = ctrl c
-- shift + insert = ctrl v
+C'est un terminal avec syntaxe linux, il y a quelques choses importantes à savoir :
+- shift + c <--- ctrl c
+- shift + insert <--- ctrl v
+- si un menu différent apparait dans le terminal (VIM) entre **wq:** suivi de enter pour quitter
 
 
 ## Cloner le projet
@@ -48,9 +49,9 @@ Pour créer une branche qui part d'une copie d'une branche source
 git checkout -b nom-nouvelle-branche nom-branche-source
 ```
 
-> **Ferme Altium Designer avant de changer de branche.** Si le projet est ouvert dans Altium pendant un `git checkout`, les fichiers changent sur le disque sans qu'Altium le sache, ce qui peut corrompre l'état du projet ou causer des conflits inattendus. Change de branche d'abord, ouvre Altium ensuite.
+**Ferme Altium Designer avant de changer de branche.** Si le projet est ouvert dans Altium pendant un `git checkout`, les fichiers changent sur le disque sans qu'Altium le sache, ce qui peut corrompre l'état du projet ou causer des conflits inattendus. Change de branche d'abord, ouvre Altium ensuite.
 
-> **Chaque fois que tu reprends le projet avant d'ouvrir Altium** fais un `pull` pour récupérer les dernières modifications des autres avant de commencer à travailler :
+**Chaque fois que tu reprends le projet avant d'ouvrir Altium** fais un `pull` pour récupérer les dernières modifications des autres avant de commencer à travailler :
 ```bash
 git pull origin nom-de-branche 
 ```
@@ -88,9 +89,6 @@ git status
 
 ## Notes importantes
 
-- Ne clone pas le projet par-dessus un dossier existant qui contient déjà des fichiers Altium — utilise toujours un dossier vide pour éviter les conflits.
-- Vérifie toujours sur quelle branche tu es avant de modifier quoi que ce soit :
-  ```bash
-  git status
-  ```
+- Ne clone pas le projet par-dessus un dossier existant qui contient déjà des fichiers, utilise toujours un dossier vide pour éviter les conflits.
+- Vérifie toujours sur quelle branche tu es avant de modifier quoi que ce soit et pull si jamais ta branche locale n'est pas identique à celle en ligne.
 - La branche main devrait toujours être fonctionnelle, il est mieu de se créer une branche de travail et lorsque c'est fini, merge dans main.
