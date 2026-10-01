@@ -66,6 +66,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VIZEHTWB
 
+[Document2]
+DocumentPath=..\..\..\..\..\..\..\Desktop\Québez\PCB et HTML\Projet OVEN\Phase 2 - Design PCB\OvenProject Altium\arduino-footprint-altium-master\arduino-footprint-altium-master\Arduino.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
