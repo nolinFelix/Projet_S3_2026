@@ -15,11 +15,13 @@ C'est un terminal avec syntaxe linux, il y a quelques choses importantes à savo
 
 ## Cloner le projet
 
+Étape à faire juste pour accéder au projet.
+
 GitHub permet de stocker des fichiers en ligne et de conserver les anciennes versions si jamais un problème survient.
 
 Crée un dossier vide Projet_S3_2026 à l'endroit où tu veux l'avoir sur ton ordinateur.
 
-Ouvre **Git Bash**, place-toi dans le dossier (avec cd et ls comme à l'APP2 S1), puis colle ces commandes :
+Ouvre **Git Bash**, place-toi dans le dossier souhaité et fait un clic droit, appuie sur Open Git Bash Here, puis colle ces commandes :
 
 ```bash
 git clone https://github.com/nolinFelix/Projet_S3_2026.git
@@ -51,7 +53,9 @@ git checkout -b nom-nouvelle-branche nom-branche-source
 
 **Ferme Altium Designer avant de changer de branche.** Si le projet est ouvert dans Altium pendant un `git checkout`, les fichiers changent sur le disque sans qu'Altium le sache, ce qui peut corrompre l'état du projet ou causer des conflits inattendus. Change de branche d'abord, ouvre Altium ensuite.
 
-**Chaque fois que tu reprends le projet avant d'ouvrir Altium** fais un `pull` pour récupérer les dernières modifications des autres avant de commencer à travailler :
+**Chaque fois que tu reprends le projet (ferme Altium pour être safe)** va voir sur git hub si quelqu'un a mis à jour le projet depuis que tu as travailler dessus.
+
+Si il y a eu des modifications, fais un `pull` pour récupérer les dernières modifications des autres avant de commencer à travailler :
 ```bash
 git pull origin nom-de-branche 
 ```
@@ -65,6 +69,8 @@ Ouvre le projet dans Altium, le dossier `.git` devrait être reconnu automatique
 ## Envoyer tes modifications (push)
 
 Une fois tes changements faits dans Altium (pas besoin de fermer altium) :
+
+Ouvre **Git Bash**, place-toi dans le dossier souhaité et fait un clic droit, appuie sur Open Git Bash Here.
 
 Ajoute les changements à une liste
 ```bash
