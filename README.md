@@ -10,12 +10,10 @@
 C'est un terminal avec syntaxe linux, il y a quelques choses importantes à savoir :
 - shift + c <--- ctrl c
 - shift + insert <--- ctrl v
-- si un menu différent apparait dans le terminal (VIM) entre **wq:** suivi de enter pour quitter
+- si un menu différent apparait dans le terminal (VIM) en essayant de pull suit la procédure pour quitter: 1. Escape 2. Entrer au clavier **wq:** 3. Enter
 
 
-## Cloner le projet
-
-Étape à faire juste pour accéder au projet.
+## Cloner le projet (Étape à faire juste pour accéder au projet)
 
 GitHub permet de stocker des fichiers en ligne et de conserver les anciennes versions si jamais un problème survient.
 
