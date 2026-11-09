@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=+5 Pin=R3-2
+Removed Pin From Net: NetName=NetP2_12 Pin=R3-3
+Change Component Footprint: Designator=XF1 Old Footprint=KSTN-3557-2 New Footprint=KSTN-3557-2
+Added Component: Designator=R3(TRIM_WH148-1A-2-18T-L20)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Kls electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WH148-1A-2-18T-L20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/WH148-1A-2-18T-L20/Kls+electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetP2_12 Pin=R3-2
+Added Pin To Net: NetName=+5 Pin=R3-3

@@ -1,0 +1,101 @@
+Removed Parameter DTEMP: from Part R4
+Removed Parameter DTEMP: from Part R5
+Removed Parameter DTEMP: from Part R6
+Removed Parameter DTEMP: from Part R7
+Removed Parameter DTEMP: from Part R8
+Removed Parameter SimulationGenericComponent:True from Part R4
+Removed Parameter SimulationGenericComponent:True from Part R5
+Removed Parameter SimulationGenericComponent:True from Part R6
+Removed Parameter SimulationGenericComponent:True from Part R7
+Removed Parameter SimulationGenericComponent:True from Part R8
+Removed Parameter T_REL_LOCAL: from Part R4
+Removed Parameter T_REL_LOCAL: from Part R5
+Removed Parameter T_REL_LOCAL: from Part R6
+Removed Parameter T_REL_LOCAL: from Part R7
+Removed Parameter T_REL_LOCAL: from Part R8
+Removed Parameter TC1:0 from Part R4
+Removed Parameter TC1:0 from Part R5
+Removed Parameter TC1:0 from Part R6
+Removed Parameter TC1:0 from Part R7
+Removed Parameter TC1:0 from Part R8
+Removed Parameter TC2:0 from Part R4
+Removed Parameter TC2:0 from Part R5
+Removed Parameter TC2:0 from Part R6
+Removed Parameter TC2:0 from Part R7
+Removed Parameter TC2:0 from Part R8
+Removed Parameter TC: from Part R4
+Removed Parameter TC: from Part R5
+Removed Parameter TC: from Part R6
+Removed Parameter TC: from Part R7
+Removed Parameter TC: from Part R8
+Removed Parameter TEMP: from Part R4
+Removed Parameter TEMP: from Part R5
+Removed Parameter TEMP: from Part R6
+Removed Parameter TEMP: from Part R7
+Removed Parameter TEMP: from Part R8
+Change Component Parameter Comment in R1 Old= New=Res2
+Change Component Parameter Comment in R2 Old= New=Res2
+Change Component Parameter Comment in R8 Old= New=Res2
+Change Component Parameter Comment in R7 Old= New=Res2
+Change Component Parameter Comment in R6 Old= New=Res2
+Change Component Parameter Comment in R5 Old= New=Res2
+Change Component Parameter Comment in R4 Old= New=Res2
+Change Value of Parameter LatestRevisionDate in Part R2 Old=29-May-2009 New=17-Jul-2002
+Change Value of Parameter LatestRevisionDate in Part R1 Old=29-May-2009 New=17-Jul-2002
+Change Value of Parameter LatestRevisionNote in Part R2 Old=IPC-7351 Footprint Added. New=Re-released for DXP Platform.
+Change Value of Parameter LatestRevisionNote in Part R1 Old=IPC-7351 Footprint Added. New=Re-released for DXP Platform.
+Change Component Parameter Library Reference in R2 Old=Res3 New=Res2
+Change Component Parameter Library Reference in R1 Old=Res3 New=Res2
+Change Component Parameter Library Reference in R7 Old=Resistor New=Res2
+Change Component Parameter Library Reference in R8 Old=Resistor New=Res2
+Change Component Parameter Library Reference in R4 Old=Resistor New=Res2
+Change Component Parameter Library Reference in R6 Old=Resistor New=Res2
+Change Component Parameter Library Reference in R5 Old=Resistor New=Res2
+Change Value of Parameter PackageDescription in Part R1 Old=Chip Resistor New=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing
+Change Value of Parameter PackageDescription in Part R2 Old=Chip Resistor New=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing
+Change Value of Parameter PackageReference in Part R1 Old=J1-0603 New=AXIAL-0.4
+Change Value of Parameter PackageReference in Part R2 Old=J1-0603 New=AXIAL-0.4
+Change Value of Parameter Value in Part R4 Old=10 New=1K
+Change Value of Parameter Value in Part R7 Old=10 New=1K
+Change Value of Parameter Value in Part R5 Old=10 New=1K
+Change Value of Parameter Value in Part R8 Old=10 New=1K
+Change Value of Parameter Value in Part R6 Old=20k New=1K
+Change Value of Parameter Value in Part R1 Old=225K New=1K
+Change Value of Parameter Value in Part R2 Old=255K New=1K
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R4
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R5
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R6
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R7
+Added Parameter LatestRevisionDate=17-Jul-2002 to Part R8
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R4
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R5
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R6
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R7
+Added Parameter LatestRevisionNote=Re-released for DXP Platform. to Part R8
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing to Part R4
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing to Part R5
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing to Part R6
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing to Part R7
+Added Parameter PackageDescription=Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing to Part R8
+Added Parameter PackageReference=AXIAL-0.4 to Part R4
+Added Parameter PackageReference=AXIAL-0.4 to Part R5
+Added Parameter PackageReference=AXIAL-0.4 to Part R6
+Added Parameter PackageReference=AXIAL-0.4 to Part R7
+Added Parameter PackageReference=AXIAL-0.4 to Part R8
+Added Parameter Published=8-Jun-2000 to Part R4
+Added Parameter Published=8-Jun-2000 to Part R5
+Added Parameter Published=8-Jun-2000 to Part R6
+Added Parameter Published=8-Jun-2000 to Part R7
+Added Parameter Published=8-Jun-2000 to Part R8
+Added Parameter Publisher=Altium Limited to Part R4
+Added Parameter Publisher=Altium Limited to Part R5
+Added Parameter Publisher=Altium Limited to Part R6
+Added Parameter Publisher=Altium Limited to Part R7
+Added Parameter Publisher=Altium Limited to Part R8
+Replace Part R1 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R2 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R4 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R5 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R6 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R7 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
+Replace Part R8 Res2 in C:\Users\capro\OneDrive - USherbrooke\S3\Projet\Projet_S3_2026\PCB_controle\Control.SchDoc with Res2 from Miscellaneous Devices.IntLib
