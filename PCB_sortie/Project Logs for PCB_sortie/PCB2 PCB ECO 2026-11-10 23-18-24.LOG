@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Sortie Member=R8
+Removed Member From Class: ClassName=Sortie Member=R9
+Change Component Designator: OldDesignator=R3 NewDesignator=R33
+Change Component Designator: OldDesignator=R4 NewDesignator=R44
+Change Component Designator: OldDesignator=R6 NewDesignator=R66
+Change Component Designator: OldDesignator=R7 NewDesignator=R77
+Change Component Designator: OldDesignator=R8 NewDesignator=R3
+Change Component Designator: OldDesignator=R9 NewDesignator=R4
+Change Component Designator: OldDesignator=R10 NewDesignator=R5
+Added Member To Class: ClassName=Sortie Member=Component R2 Res2
+Added Member To Class: ClassName=Sortie Member=Component R33 Res2
+Added Member To Class: ClassName=Sortie Member=Component R44 Res2

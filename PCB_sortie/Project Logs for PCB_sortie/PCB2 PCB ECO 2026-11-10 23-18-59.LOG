@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R11 NewDesignator=R6
+Change Component Designator: OldDesignator=R12 NewDesignator=R7
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR6_2
+Added Member To Class: ClassName=Sortie Member=Component R2 Res2
+Added Member To Class: ClassName=Sortie Member=Component R3 Res2
+Added Member To Class: ClassName=Sortie Member=Component R4 Res2
+Added Member To Class: ClassName=Sortie Member=Component R5 Res2

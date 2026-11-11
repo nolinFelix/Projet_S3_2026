@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=R22 NewDesignator=R12
+Change Component Designator: OldDesignator=R33 NewDesignator=R8
+Change Component Designator: OldDesignator=R44 NewDesignator=R10
+Change Component Designator: OldDesignator=R66 NewDesignator=R9
+Change Component Designator: OldDesignator=R77 NewDesignator=R11
+Added Member To Class: ClassName=Sortie Member=Component R2 Res2
+Added Member To Class: ClassName=Sortie Member=Component R3 Res2
+Added Member To Class: ClassName=Sortie Member=Component R4 Res2
+Added Member To Class: ClassName=Sortie Member=Component R5 Res2
