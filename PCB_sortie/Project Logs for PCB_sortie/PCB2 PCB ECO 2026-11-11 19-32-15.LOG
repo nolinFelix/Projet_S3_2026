@@ -1,0 +1,44 @@
+Added Component: Designator=C2(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C103K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C103K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012X88N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C0805C103K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "805-2 KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C0805C103K5RACTU/KEMET/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found TP06R
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=NetP1_6 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=P1-7
+Added Pin To Net: NetName=GND Pin=P1-8
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetC7_1
+Added Member To Class: ClassName=Sortie Member=Component C2 C0805C103K5RACTU
+Added Member To Class: ClassName=Sortie Member=Component C6 C0805C103K5RACTU
+Added Member To Class: ClassName=Sortie Member=Component C7 C0805C103K5RACTU
+Added Member To Class: ClassName=Sortie Member=Component D2 GBPC3510
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
+Added Member To Class: ClassName=Sortie Member=Component XF1 3557-2

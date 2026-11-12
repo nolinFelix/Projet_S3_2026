@@ -1,0 +1,10 @@
+Change Component Description : Designator=RT1 Old Description=NTC Thermistors,NTC Ni 0.4 lead 10K 1% bulk e3 New Description=NTC Thermistors,NTC Ni 0.4 lead 10K 1% bulk e3 | Vishay Dale NTCLE203E3103FB0
+Add component: Footprint Not Found TP06R
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Added Member To Class: ClassName=Sortie Member=Component C3 3.9uF
+Added Member To Class: ClassName=Sortie Member=Component C4 375nF
+Added Member To Class: ClassName=Sortie Member=Component D2 GBPC3510
+Added Member To Class: ClassName=Sortie Member=Component J2 CT3151-2
+Added Member To Class: ClassName=Sortie Member=Component L1 5708-RC
+Added Member To Class: ClassName=Sortie Member=Component Q1 IXFH26N50P
+Add Class Member: Failed to add class member : Component TP5 TPAD6R

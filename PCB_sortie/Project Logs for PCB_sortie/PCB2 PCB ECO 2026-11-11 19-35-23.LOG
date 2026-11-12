@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=TP3-1
+Add component: Footprint Not Found TP06R
+Add Pin To Net: Unknown Pin: Pin TP5-1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=P1-7
+Added Pin To Net: NetName=NetC2_1 Pin=R8-2
+Added Pin To Net: NetName=NetC2_1 Pin=R9-2
+Added Pin To Net: NetName=NetC2_1 Pin=TP3-1
+Added Net: Name=NetC2_1
+Add Class Member: Failed to add class member : Component TP5 TPAD6R
